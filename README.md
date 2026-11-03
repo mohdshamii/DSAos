@@ -143,26 +143,6 @@ DSAos/
 - Node.js 18+ (tested on Node.js 20 & 22)
 - npm 9+
 
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mohdshamii/DSAos.git
-   cd DSAos
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the local Vite development server:
-   ```bash
-   npm run dev
-   ```
-4. Open [http://localhost:5173/DSAos/](http://localhost:5173/DSAos/) in your browser.
-
-5. Build for production:
-   ```bash
-   npm run build
-   ```
 
 ---
 
