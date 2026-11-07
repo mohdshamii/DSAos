@@ -35,7 +35,7 @@ Start the development server:
 npm run dev
 ```
 
-Open the local URL displayed in your terminal to access the application.
+
 
 ## Build for Production
 
@@ -68,4 +68,3 @@ B.Tech Data Science | Aspiring AI/ML Engineer
 ---
 
 *Built to make DSA practice structured, accessible, and consistent.*
-\ No newline at end of file
